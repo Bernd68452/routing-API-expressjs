@@ -1,3 +1,5 @@
+'use strict'
+
 let movies = [
     {
         title: 'The Shawshank Redemption',
